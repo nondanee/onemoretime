@@ -1,5 +1,6 @@
 # One more time  
-サヨナラの意味  
-
+Graduated members' blog collection @nogizaka46  
+  
+  
 ### Hashimoto Nanami 
 https://nondanee.github.io/onemoretime/nanami.hashimoto/
