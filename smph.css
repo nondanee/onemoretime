@@ -1,4 +1,10 @@
 @charset "utf-8";
+@media screen and (min-width: 480px) {
+	#sheet,#blogmaintitle>div,.ptop{
+		width:480px;
+		margin:0 auto;
+	}
+}
 *{margin:0;padding:0;-webkit-text-size-adjust:none;}
 h1,h2,h3,h4,h5,h6{font-size:100%;}
 body,table,form{font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;line-height:1.5;}
