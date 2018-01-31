@@ -8,9 +8,9 @@ Powered by GitHub Pages
 [https://nondanee.github.io/onemoretime/nanami.hashimoto/](https://nondanee.github.io/onemoretime/nanami.hashimoto/)
 
 ### itou marika
-2018.1.1 ◢  
+2018.1.30 ◢  
 [https://nondanee.github.io/onemoretime/marika.ito/](https://nondanee.github.io/onemoretime/marika.ito/)
 
 ### nakamoto himeka
-2018.1.1 ◢  
+2018.1.30 ◢  
 [https://nondanee.github.io/onemoretime/himeka.nakamoto/](https://nondanee.github.io/onemoretime/himeka.nakamoto/)
