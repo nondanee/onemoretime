@@ -1,7 +1,7 @@
 # onemoretime
-Graduated sakamichi 46 members' blog archive  
+Graduated nogizaka 46 members' blog archive  
 Keep the official mobile site's style  
-Powered by GitHub Pages  
+Host with GitHub Pages  
 
 ### hashimoto nanami
 2017.3.30 ◢  
@@ -14,3 +14,8 @@ Powered by GitHub Pages
 ### nakamoto himeka
 2018.1.30 ◢  
 [https://nondanee.github.io/onemoretime/himeka.nakamoto/](https://nondanee.github.io/onemoretime/himeka.nakamoto/)
+
+### kawamura mahiro
+
+2018.3.31 ◢  
+[https://nondanee.github.io/onemoretime/mahiro.kawamura/](https://nondanee.github.io/onemoretime/mahiro.kawamura/)
