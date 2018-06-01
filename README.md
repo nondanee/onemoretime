@@ -1,4 +1,5 @@
 # onemoretime
+
 Graduated nogizaka 46 members' blog archive  
 Keep the official mobile site's style  
 Host with GitHub Pages  
@@ -19,3 +20,9 @@ Host with GitHub Pages
 
 2018.4.30 ◢  
 [https://nondanee.github.io/onemoretime/mahiro.kawamura/](https://nondanee.github.io/onemoretime/mahiro.kawamura/)
+
+### ikoma rina
+
+2018.5.30 ◢ 
+[https://nondanee.github.io/onemoretime/rina.ikoma/](https://nondanee.github.io/onemoretime/rina.ikoma/)
+
