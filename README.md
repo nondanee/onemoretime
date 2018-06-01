@@ -23,6 +23,6 @@ Host with GitHub Pages
 
 ### ikoma rina
 
-2018.5.30 ◢ 
+2018.5.30 ◢  
 [https://nondanee.github.io/onemoretime/rina.ikoma/](https://nondanee.github.io/onemoretime/rina.ikoma/)
 
