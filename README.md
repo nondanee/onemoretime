@@ -1,6 +1,6 @@
 # onemoretime
 
-Graduated nogizaka 46 members' blog archive  
+Graduated nogizaka 46 members' blog archive [Part 1]  
 Keep the official mobile site's style  
 Host with GitHub Pages  
 
@@ -30,4 +30,9 @@ Host with GitHub Pages
 
 2018.7.30 ◢  
 [https://nondanee.github.io/onemoretime/chiharu.saito/](https://nondanee.github.io/onemoretime/chiharu.saito/)
+
+### sagara iori
+
+2018.7.30 ◢  
+[https://nondanee.github.io/onemorechance/iori.sagara/](https://nondanee.github.io/onemorechance/iori.sagara/)
 
